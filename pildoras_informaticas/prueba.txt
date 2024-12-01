@@ -1,1 +1,12 @@
 estoy intentando probar si se puede hacer un fichero doc en la carpeta, para hacer cometnarios conforme voy haciendo el curso
+# https://docs.python.org/es/3/tutorial/interpreter.html
+
+--- Páginas de referencia ----
+
+https://www.python.org/
+https://es.stackoverflow.com
+https://www.learnpython.org
+https://docs.microsoft.com/es-es/windows/python/beginners
+https://es.python.org/aprende-python/
+https://docs.python.org/es/3/tutorial/
+https://github.com/python
